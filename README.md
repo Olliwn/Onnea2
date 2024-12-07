@@ -1,5 +1,7 @@
 # Champagne Bottle Simulation
 
+My 1st trial using Cursor Composer Agent mode. Everything was done by the agent (including terminal commands, directory and file generation etc)
+
 An interactive physics-based simulation of a champagne bottle, demonstrating pressure, cork dynamics, and fluid behavior.
 
 ## Features
